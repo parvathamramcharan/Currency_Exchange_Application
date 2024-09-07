@@ -4,8 +4,8 @@ Developed a currency converter application using Js, which interacts with an ext
 
 
 **GitHub:** [parvathamramcharan](https://github.com/parvathamramcharan)
-## Deployed at: [Look here](https://mycurrencyconverterapi.netlify.app/)
 
+## Deployed at: [Look here](https://66dc89fc360369099db83776--mycurrencyconverterapi.netlify.app/)
 ## What?
 Developed a currency converter application using Js, which interacts with an external API to fetch exchange rates. 
 Demonstrated proficiency in utilizing Fetch API for making asynchronous requests and processing JSON data.
